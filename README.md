@@ -110,9 +110,12 @@ The analysis results are summarized as follows:
 
 
 ### Recommendations 
-Product Focus: Considering the strong performance of Biros, it is recommended to further capitalize on this product's success by potentially enhancing marketing efforts or exploring opportunities for product line expansion or innovation.
+- Product Focus: Considering the strong performance of Biros, it is recommended to further capitalize on this product's 
+  success by potentially enhancing marketing efforts or exploring opportunities for product line expansion or innovation.
 
-New B2B Segments: exploring new B2B segments, like schools and corporate offices presents an excellent opportunity for business expansion. They often require a variety of supplies ranging from stationery to larger equipment, presenting a potentially lucrative market for office supply businesses.
+- New B2B Segments: exploring new B2B segments, like schools and corporate offices presents an excellent opportunity for 
+  business expansion. They often require a variety of supplies ranging from stationery to larger equipment, presenting a 
+  potentially lucrative market for office supply businesses.
 
 
 
