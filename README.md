@@ -25,7 +25,7 @@ This project involves analyzing the Office Supply dataset to provide insights in
 
 ### Data Sources
 
-Office supply data set: The primary data source used for this analysis is the 
+Office supply data set: The primary data source used for this analysis is the "Office supply data.csv".
 
 ### Tools
 - Excel- Data cleaning and calculation of financial metrics
@@ -60,7 +60,13 @@ H. Discount Rate: Calculated using the DAX IF function in Power BI
 - year-on-year results for fourth quarter figures.
 - comparison at higher levels such as product category and state.
 
- 
+![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/f630eecc-9a02-4d74-a082-81346e5e2d64)
+
+![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/67456dbb-647f-41df-aecd-06a85c677ef6)
+
+![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/38ce2230-eb2b-4090-81b1-36c6a6abd722)
+
+
  #### Insights:
 - Growth and decline in product lines
 - Identification of products significantly contributing to sales revenue and profit.
@@ -71,6 +77,7 @@ H. Discount Rate: Calculated using the DAX IF function in Power BI
 - Analysis of Taxation on Products: products with the highest tax burden overall, for each state and customer 
   segment
 
+![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/5d267723-4547-40f9-b294-8aaeee6f3548)
 
 #### Data Analysis
 - Data preparation
@@ -97,7 +104,8 @@ The analysis results are summarized as follows:
   consideration for discontinuation to streamline our product portfolio.
 - The highest overall tax payments were notably associated with Biros.
 - The highest tax paid per product across states and segments can be found below;
-  ![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/df59a9af-4c73-42e7-878b-cffd4d12cc27)
+
+ ![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/df59a9af-4c73-42e7-878b-cffd4d12cc27)
 
 
 
