@@ -50,7 +50,7 @@ In the initial data preparation, the following tasks were performed:
  Utilising Power BI, I created tables and charts to delve into sales performance by segment, state, and product, 
  extracting valuable insights from the following reports:
  
-#### Reports:
+### Reports
 - Segment: Analysis of sales performance by customer segment.
 - State: Evaluation of sales performance by geographical location.
 - Product: Assessment of sales performance by product.
@@ -67,7 +67,7 @@ In the initial data preparation, the following tasks were performed:
 ![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/38ce2230-eb2b-4090-81b1-36c6a6abd722)
 
 
- #### Insights:
+ ### Insights
 - Growth and decline in product lines
 - Identification of products significantly contributing to sales revenue and profit.
 - Identification of Products for Discontinuation:
@@ -79,7 +79,7 @@ In the initial data preparation, the following tasks were performed:
 
 ![image](https://github.com/Bukolagbogi/Office-Supply-Sales-Analysis/assets/152001727/5d267723-4547-40f9-b294-8aaeee6f3548)
 
-#### Data Analysis
+### Data Analysis
 - Data preparation
   I imported the dataset into Excel and Power BI, meticulously cleaned the data, removed duplicates, handled 
   missing values, and rectified any errors to ensure data integrity.
