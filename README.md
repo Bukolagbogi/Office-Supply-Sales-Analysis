@@ -36,14 +36,14 @@ Office supply data set: The primary data source used for this analysis is the "O
 In the initial data preparation, the following tasks were performed:
 1. Data cleaning.
 2. Financial calculations
-a. Gross Sales: Total sales amount before any deductions.
-b. Discount: Calculated using the discount rate applied to gross sales.
-c. Revenue: Gross sales minus discounts.
-d. Profit before Tax: Revenue minus the cost of goods sold and operating expenses.
-e. Profit Margin: Profit before tax divided by revenue, expressed as a percentage.
-f. Tax on Profit: Calculated as 5% of profit before tax.
-g. Profit after Tax: Profit before tax minus tax on profit
-H. Discount Rate: Calculated using the DAX IF function in Power BI
+- Gross Sales: Total sales amount before any deductions.
+- Discount: Calculated using the discount rate applied to gross sales.
+- Revenue: Gross sales minus discounts.
+- Profit before Tax: Revenue minus the cost of goods sold and operating expenses.
+- Profit Margin: Profit before tax divided by revenue, expressed as a percentage.
+- Tax on Profit: Calculated as 5% of profit before tax.
+- Profit after Tax: Profit before tax minus tax on profit
+- Discount Rate: Calculated using the DAX IF function in Power BI
 
 ### Exploratory Data Analysis
 
